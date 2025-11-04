@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
+  <diagram name="Página-1" id="A-9KEBaU-QeYinXPFSCC">
+    <mxGraphModel dx="1034" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_3fBhCsNS0HV88MgnGv-1" target="U_3fBhCsNS0HV88MgnGv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_3fBhCsNS0HV88MgnGv-1" target="U_3fBhCsNS0HV88MgnGv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-1" value="Bando de Dados(BD) conjunto de estrutura de de informações para armazenar, consultar, atualizar os dados de forma segura&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-2" value="Exemplo prático:&lt;div&gt;Clínica Pet&lt;/div&gt;&lt;div&gt;Cliente: Nome, telefone, pets&lt;/div&gt;&lt;div&gt;Pets: Nome, espécie&lt;/div&gt;&lt;div&gt;Consultas: Data, veterinário, medicamento aplicado&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-6" value="Para que serve" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U_3fBhCsNS0HV88MgnGv-8" target="U_3fBhCsNS0HV88MgnGv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-8" value="&lt;b&gt;Modelagem de dados faz&lt;/b&gt;: Planeja a estrutura do bando de dados antes da implementação do banco" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U_3fBhCsNS0HV88MgnGv-9" value="Benefícios da modelagem de dados: Evita redundâcia, expansão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="450" width="120" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
