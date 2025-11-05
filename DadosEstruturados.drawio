@@ -7,8 +7,11 @@
         <mxCell id="oFujISL-STIi9fBzvxNx-1" value="&lt;b&gt;DADOS ESTRUTRADOS&lt;/b&gt;:&amp;nbsp;&lt;div&gt;ORGANIZADOS EM LINHA E COLUNAS&lt;/div&gt;&lt;div&gt;EX: TABELAS, CLIENTES, SQL, BANCO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SÃO BANCOS RELACIONAIS&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="290" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="oFujISL-STIi9fBzvxNx-2" value="&lt;b&gt;DADOS SEMI ESTRUTRADOS&lt;/b&gt;:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EX: {&quot;NOME&quot; , &quot;KATIA&quot;},&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NÃO SÃO BANCOS RELACIONAIS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CAIXA COM MUITA INFORMAÇÃO, UTILIZADO EM APLICAÇÕES DE INTELEGIÊNCIA ARTIFICIAIS, MACHINE LEARNIING&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="290" height="180" as="geometry" />
+        <mxCell id="oFujISL-STIi9fBzvxNx-2" value="&lt;b&gt;DADOS SEMI ESTRUTRADOS&lt;/b&gt;:&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EX: {&quot;NOME&quot; , &quot;KATIA&quot;},&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NÃO SÃO BANCOS RELACIONAIS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CSV, JSON&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oFujISL-STIi9fBzvxNx-3" value="&lt;b&gt;DADOS NÃO ESTRUTRADOS&lt;/b&gt;:&amp;nbsp;&lt;div&gt;SEM FORMATO FÍSICO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EX: TEXTO, VÍDEO, PDF, BANDO NOSQL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CAIXA COM MUITA INFORMAÇÃO, UTILIZADO EM APLICAÇÕES DE INTELEGIÊNCIA ARTIFICIAIS, MACHINE LEARNIING&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="290" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
