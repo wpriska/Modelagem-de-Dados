@@ -51,6 +51,11 @@ O objetivo é ensinar, de forma prática, como estruturar um projeto SQL complet
     <td><strong>ClinicaVeterinaria.db</strong></td>
     <td>Banco SQLite completo e pronto para execução.</td>
   </tr>
+
+  <tr>
+    <td><strong>ClinicaVeterinaria.pdf</strong></td>
+    <td>Modelagem.</td>
+  </tr>
 </table>
 
 <br>
