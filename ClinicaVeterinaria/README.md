@@ -61,9 +61,9 @@ O objetivo é ensinar, de forma prática, como estruturar um projeto SQL complet
 
 <ol style="font-size:16px;">
   <li>Baixe ou clone este repositório:</li>
-  <pre><code>git clone https://github.com/wpriska/Modelagem-de-Dados/tree/main/ClinicaVeterinaria</code></pre>
+  <pre><code>git clone https://github.com/wpriska/Modelagem-de-Dados/ClinicaVeterinaria/</code></pre>
 
-  <li>Abra o arquivo <strong>veterinaria_clinica.db</strong> usando:
+  <li>Abra o arquivo <strong>ClincaVeterinaria.db</strong> usando:
     <ul>
       <li>SQLiteStudio</li>
       <li>DB Browser for SQLite</li>
