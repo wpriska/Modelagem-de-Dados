@@ -95,6 +95,8 @@ O objetivo é ensinar, de forma prática, como estruturar um projeto SQL complet
   <li>🐬 <strong>SQLite</strong> — banco simples, rápido e portátil</li>
   <li>🧠 <strong>SQL</strong> — linguagem para manipulação dos dados</li>
   <li>🐙 <strong>Git & GitHub</strong> — versionamento e repositório remoto</li>
+  <li>   <strong>Draw.io</strong> — Modelagem remoto</li>
+  
 </ul>
 
 <hr>
