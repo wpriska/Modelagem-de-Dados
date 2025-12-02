@@ -9,11 +9,10 @@ SELECT DISTINCT nome FROM cliente;
 --- DELETANDO NA TABELA CLIENTE O CLIENTE POR ID ---
 
 DELETE FROM cliente
+  WHERE id_cliente = '3';
 
-WHERE id_cliente = '3';
-
---- DELETANDO NA TABELA CLIENTE O CLIENTE POR ID ---
+--- DELETANDO NA TABELA MEDICAMENTO O MEDICAMENTO POR ID ---
 
 DELETE FROM Medicamento
+  WHERE id_medicamento = '2';
 
-WHERE id_medicamento = '2';
